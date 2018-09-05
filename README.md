@@ -1,6 +1,6 @@
 # [Mkwii] Smacpack
 
-This pack includes 95 BRSTM music files and 34 SZS track files. That = 32 tracks worth of music and 32 textured tracks.
+This pack includes 95 BRSTM music files and 34 SZS track files. That = 32 tracks worth of music and 32 textured tracks. If you are the type of person who doesn't read these things ¯\_(ツ)_/¯, here is the link I guess- https://github.com/smacpats/-mkwii-Smacpack/archive/master.zip
 
 ## For CTGP Revolution 1.0.3 on a real wii
 
